@@ -9,9 +9,6 @@
     background-color: #f4f6ff;
 }
 
-.profile-2{
-    border-radius: 100%;
-}
 
 body{ 
     margin: 0;
@@ -24,19 +21,19 @@ h1{
     margin-bottom: 0;
     font-family: 'Reenie Beanie', cursive;
     font-size: 562%;
-}
-h2{
-    font-family: 'Montserrat', sans-serif;
+    color: rgba(132, 174, 253, 0.952);
 }
 
 h3{
     font-family: 'Montserrat', sans-serif;
 }
 
-p{
+h2{
     margin-top: 0;
-    font-family: 'Mulish', sans-serif;
-    font-size: 15px;
+    margin-bottom: 0;
+    font-family: 'Quicksand', sans-serif;
+    color: rgba(103, 154, 248, 0.952);
+    font-size: 93.75%;
 }
 
 .bottom-cloud {
