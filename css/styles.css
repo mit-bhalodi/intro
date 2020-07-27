@@ -36,7 +36,10 @@ hr{
 }
 
 .btn{
+    font-size: 14px;
     font-family: Arial, Helvetica, sans-serif; 
+    font-weight: bold;
+    color: rgb(0, 0, 0);
 }
 
 
@@ -85,33 +88,46 @@ h2{
     margin: 5px 20px 5px 20px;
 }
 
-.btn{
-    font-family: 'Permanent Marker', cursive;
-}
  .footer-link{
     font-family: 'Lexend Zetta', sans-serif;
  }
 
  .linked-in{
-     font-size: 25px;
+     font-size: 22px;
     font-family: 'Mulish', sans-serif;
+    color: blue;
  }
 
  .instagram-1{
-     font-size: 40px;
+     font-size: 32px;
     font-family: 'Cookie', cursive;
+    color: rgb(255, 0, 149);
  }
 
- .twit{
-     font-size: 25px;
+.twit{ 
+     font-size: 23px;
     font-family: 'Pacifico', cursive;
+    color: rgb(49, 176, 255);
  }
 
  a {
     text-decoration: none !important;
+    padding-right: 10px;
 }
 
 .pro-f{
     border-radius: 100%;
-    border: 10px solid white;
+    border: 10px solid white; 
 }
+.mm{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 92%;
+    /* background-color: rgba(175, 253, 205, 0.774); */
+    background-color:#b0fd9c;
+    border-radius: 5px;
+    border: 4px solid white;
+    border-color: white;
+    text-shadow: grey;
+    width: 7.5%;
+}
+
