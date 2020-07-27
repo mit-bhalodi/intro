@@ -9,7 +9,7 @@ hr{
     border-style:none;
     border-top-style: dotted;
     width: 5%;
-    border-color: rgb(224, 224, 224);
+    border-color: rgb(196, 196, 196);
     border-width: 7.5px;
 }
 
@@ -59,8 +59,8 @@ p{
 }
 
 h2{
-    margin-top: 0;
-    margin-bottom: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
     font-family: 'Quicksand', sans-serif;
     color: rgb(0, 202, 108);
     font-size: 20px;
