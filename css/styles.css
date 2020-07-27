@@ -9,7 +9,7 @@ hr{
     border-style:none;
     border-top-style: dotted;
     width: 5%;
-    border-color: grey;
+    border-color: rgb(196, 196, 196);
     border-width: 7px;
 }
 
