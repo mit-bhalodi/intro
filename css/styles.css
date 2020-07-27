@@ -1,5 +1,5 @@
 .top-container{
-    background-color:#effffa;
+    background-color:#e8ffe2;
     position: relative;
     padding-top: 100px;
     padding-bottom: 20px;
@@ -21,16 +21,16 @@ hr{
     padding-bottom: 10px;
 } */
 
-.skills{
+/* .skills{
     margin-top: 20px;
-}
+} */
 
 .middle-container{
-    background-color:#effffa;
+    background-color:#e8ffe2;
 }
 
 .bottom-container{
-    background-color:#effffa;
+    background-color:#e8ffe2;
     font-family: Arial, Helvetica, sans-serif;
     padding: 10px
 }
@@ -66,7 +66,7 @@ h2{
     margin: 15px;
     font-family: 'Quicksand', sans-serif;
     color: rgb(0, 202, 108);
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .bottom-cloud {
@@ -82,6 +82,36 @@ h2{
 }
 
 .icons{
-    margin-top: 10px;
-    margin: 20px;
+    margin: 5px 20px 5px 20px;
+}
+
+.btn{
+    font-family: 'Permanent Marker', cursive;
+}
+ .footer-link{
+    font-family: 'Lexend Zetta', sans-serif;
+ }
+
+ .linked-in{
+     font-size: 25px;
+    font-family: 'Mulish', sans-serif;
+ }
+
+ .instagram-1{
+     font-size: 40px;
+    font-family: 'Cookie', cursive;
+ }
+
+ .twit{
+     font-size: 25px;
+    font-family: 'Pacifico', cursive;
+ }
+
+ a {
+    text-decoration: none !important;
+}
+
+.pro-f{
+    border-radius: 100%;
+    border: 10px solid white;
 }
