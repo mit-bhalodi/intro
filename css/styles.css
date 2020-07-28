@@ -32,7 +32,7 @@ hr{
 .bottom-cloud {
     position: absolute;
     left: 27%;
-    bottom: 450px;
+    bottom: 400px;
 }
 
 .top-cloud{
@@ -45,6 +45,7 @@ hr{
 .mount{
     margin-top: 100px;
     margin-bottom: 20px;
+    width: 700px;
 }
 
 .btn{
