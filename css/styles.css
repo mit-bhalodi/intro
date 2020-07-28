@@ -29,20 +29,22 @@ hr{
     padding: 10px
 }
 
-/* .bottom-cloud {
+.bottom-cloud {
     position: absolute;
     left: 27%;
-    bottom: 50%;
+    bottom: 450px;
 }
 
 .top-cloud{
     position: absolute;
     right: 27%;
-    top: 50px;
-} */
+    top: 40px;
+}
+
 
 .mount{
-    margin: 20px 0px;
+    margin-top: 100px;
+    margin-bottom: 20px;
 }
 
 .btn{
