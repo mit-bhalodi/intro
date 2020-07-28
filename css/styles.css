@@ -29,7 +29,7 @@ hr{
     padding: 10px
 }
 
-.bottom-cloud {
+/* .bottom-cloud {
     position: absolute;
     left: 27%;
     bottom: 50%;
@@ -44,7 +44,7 @@ hr{
     position: absolute;
     right: 27%;
     top: 50px;
-}
+} */
 
 .mount{
     margin: 20px 0px;
