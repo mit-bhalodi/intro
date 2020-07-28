@@ -106,7 +106,7 @@ h2{
 
  a {
     text-decoration: none !important;
-    padding-right: 10px;
+    padding: 0px 10px;
 }
 
 .pro-f{
@@ -116,7 +116,6 @@ h2{
 .mm{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 90%;
-    /* background-color: rgba(175, 253, 205, 0.774); */
     background-color:#b0fd9c;
     border-radius: 5px;
     border: 3px solid white;
@@ -134,7 +133,9 @@ h2{
 .scaledown{
     object-fit: scale-down;
 }
+
 .narrow{
     width: 100px;
     height: 50px;
 }
+
