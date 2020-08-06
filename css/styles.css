@@ -144,12 +144,13 @@ h2{
     width: 100px;
     height: 50px;
 }
+
 .skill-row-img{
-    height: auto;
+    height: 50%;
     width: 50%;
     margin: 50px auto 50px auto;
     text-align: left;
-    /* display: inline-block; */
+text-align: justify;
 }
 
 .icon1{
@@ -157,16 +158,15 @@ h2{
     border-radius: 10%;
     float: left;
     margin-right: 30px;
-    margin-top: 20px;
+    /* margin-top: 20px; */
     margin-bottom: 20px;
-    /* vertical-align: middle;
-    display: table-cell; */
 }
+
 .icon2{
     border-radius: 10%;
     float: right;
     margin-left: 30px;
-    margin-top: 20px;
+    /* margin-top: 20px; */
     margin-bottom: 20px;
 }
 .details{
@@ -174,8 +174,8 @@ h2{
     margin-bottom: 10px;
     font-size: 18px;
     font-family: 'Quicksand', sans-serif;
-    text-align: justify;
 }
+
 .title{
     margin: 5px 0px;
 }
