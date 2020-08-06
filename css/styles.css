@@ -149,8 +149,8 @@ h2{
     height: 50%;
     width: 50%;
     margin: 50px auto 50px auto;
-    text-align: left;
-text-align: justify;
+    /* text-align: left; */
+    text-align: justify;
 }
 
 .icon1{
